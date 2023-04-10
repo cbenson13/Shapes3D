@@ -1,0 +1,5 @@
+/Users/christianbenson/C# Actual /class hw/Shapes3D/obj/Debug/net7.0/Shapes3D.csproj.AssemblyReference.cache
+/Users/christianbenson/C# Actual /class hw/Shapes3D/obj/Debug/net7.0/Shapes3D.GeneratedMSBuildEditorConfig.editorconfig
+/Users/christianbenson/C# Actual /class hw/Shapes3D/obj/Debug/net7.0/Shapes3D.AssemblyInfoInputs.cache
+/Users/christianbenson/C# Actual /class hw/Shapes3D/obj/Debug/net7.0/Shapes3D.AssemblyInfo.cs
+/Users/christianbenson/C# Actual /class hw/Shapes3D/obj/Debug/net7.0/Shapes3D.csproj.CoreCompileInputs.cache
